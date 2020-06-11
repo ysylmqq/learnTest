@@ -1,12 +1,3 @@
-1、工蜂 里约工程地址 https://git.code.oa.com/tif/OpenPlatform
-2、https://exp1.rio.tencent.com/home    
-		里约  账号：440307202009091234
-		密码：tianyu@123
-3、http://120.92.94.70/apphub/
-		竹云IM     账号：bbcadmin  密码：P@ssw0rd1
-		
-		6月19日 网络课程培训  http://mooc.oa.com/my/course/70
-		
 
 
 db.createUser(
